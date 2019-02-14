@@ -6,6 +6,8 @@
 
 ***Marital status*** *Single*
 
+***Nationality***	*Belorussian*
+
 ### Eduation
 
 Belarusian National Technical University,  Energy Faculty, Electrical systems, September 2013 - June 2018
