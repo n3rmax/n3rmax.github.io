@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+# Welcome to Siarhei Abramchuk homepage
 
-You can use the [editor on GitHub](https://github.com/n3rmax/n3rmax.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### Personal information
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+***Name*** *Siarhei Abrmachuk*
 
-### Markdown
+***Date of brith*** *6th August 1996*
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+***Marital status*** *Single*
 
-```markdown
-Syntax highlighted code block
+### Eduation
 
-# Header 1
-## Header 2
-### Header 3
+Belarusian National Technical University,  Energy Faculty, Electrical systems, September 2013 - June 2018
 
-- Bulleted
-- List
+Belarusian National Technical University,  International Institute of Distance Education, Information systems and technologies, Master degree in technical and technology, September 2018 - June 2019
 
-1. Numbered
-2. List
+### Personal qualities
 
-**Bold** and _Italic_ and `Code` text
+- *Patience*
+- *Honesty*
+- *Sense of humor*
+- *Optimism*
+- *Positive*
 
-[Link](url) and ![Image](src)
-```
+### Special skills
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/n3rmax/n3rmax.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+- *Native Russian*
+- *Working knowledge of English (Pre-Intermediate)*
+- *Working knowledge of German (Elementary)*
+- *Hobbies: computer games, swimming, watching movies and interesting videos*
