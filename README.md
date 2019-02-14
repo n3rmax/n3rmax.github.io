@@ -1,5 +1,3 @@
-# Welcome to Siarhei Abramchuk homepage
-
 ### Personal information
 
 ***Name*** *Siarhei Abrmachuk*
