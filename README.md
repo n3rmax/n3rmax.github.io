@@ -6,13 +6,13 @@
 
 ***Marital status*** *Single*
 
-***Nationality***	*Belorussian*
+***Nationality***	*Belarusian*
 
 ### Eduation
 
-Belarusian National Technical University,  Energy Faculty, Electrical systems, September 2013 - June 2018
+*Belarusian National Technical University,  Energy Faculty, Electrical systems, September 2013 - June 2018*
 
-Belarusian National Technical University,  International Institute of Distance Education, Information systems and technologies, Master degree in technical and technology, September 2018 - June 2019
+*Belarusian National Technical University,  International Institute of Distance Education, Information systems and technologies, Master degree in technical and technology, September 2018 - June 2019*
 
 ### Personal qualities
 
