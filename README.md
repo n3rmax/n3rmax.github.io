@@ -1,6 +1,6 @@
 ### Personal information
 
-***Name*** *Siarhei Abrmachuk*
+***Name*** *Siarhei Abramchuk*
 
 ***Date of brith*** *6th August 1996*
 
