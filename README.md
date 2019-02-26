@@ -29,10 +29,10 @@
 - *Working knowledge of German (Elementary)*
 - *Hobbies: computer games, swimming, watching movies and interesting videos*
 
-[FancyCalc - 40%](https://github.com/n3rmax/FancyCalc)
-[PadawansTask1 - 100%](https://github.com/n3rmax/PadawansTask1)
-[PadawansTask2 - 100%](https://github.com/n3rmax/PadawansTask2)
-[PadawansTask3 - 75%](https://github.com/n3rmax/PadawansTask3)
-[PadawansTask4 - 86%](https://github.com/n3rmax/PadawansTask4)
-[PadawansTask5 - 82%](https://github.com/n3rmax/PadawansTask5)
-[PadawansTask7 - 83%](https://github.com/n3rmax/PadawansTask7)
+- [FancyCalc - 40%](https://github.com/n3rmax/FancyCalc)
+- [PadawansTask1 - 100%](https://github.com/n3rmax/PadawansTask1)
+- [PadawansTask2 - 100%](https://github.com/n3rmax/PadawansTask2)
+- [PadawansTask3 - 75%](https://github.com/n3rmax/PadawansTask3)
+- [PadawansTask4 - 86%](https://github.com/n3rmax/PadawansTask4)
+- [PadawansTask5 - 82%](https://github.com/n3rmax/PadawansTask5)
+- [PadawansTask7 - 83%](https://github.com/n3rmax/PadawansTask7)
