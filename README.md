@@ -29,6 +29,8 @@
 - *Working knowledge of German (Elementary)*
 - *Hobbies: computer games, swimming, watching movies and interesting videos*
 
+### Tasks
+
 - [FancyCalc - 40%](https://github.com/n3rmax/FancyCalc)
 - [PadawansTask1 - 100%](https://github.com/n3rmax/PadawansTask1)
 - [PadawansTask2 - 100%](https://github.com/n3rmax/PadawansTask2)
