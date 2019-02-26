@@ -28,3 +28,5 @@
 - *Working knowledge of English (Pre-Intermediate)*
 - *Working knowledge of German (Elementary)*
 - *Hobbies: computer games, swimming, watching movies and interesting videos*
+
+[FancyCalc - 40%](https://github.com/n3rmax/FancyCalc)
