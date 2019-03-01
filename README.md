@@ -35,6 +35,6 @@
 - [PadawansTask1 - 100%](https://github.com/n3rmax/PadawansTask1)
 - [PadawansTask2 - 100%](https://github.com/n3rmax/PadawansTask2)
 - [PadawansTask3 - 75%](https://github.com/n3rmax/PadawansTask3)
-- [PadawansTask4 - 86%](https://github.com/n3rmax/PadawansTask4)
+- [PadawansTask4 - 100%](https://github.com/n3rmax/PadawansTask4)
 - [PadawansTask5 - 82%](https://github.com/n3rmax/PadawansTask5)
 - [PadawansTask7 - 83%](https://github.com/n3rmax/PadawansTask7)
