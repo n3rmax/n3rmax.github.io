@@ -31,6 +31,7 @@
 
 ### Tasks
 
+- [Codewars profile](https://www.codewars.com/users/n3rmax)
 - [FancyCalc - 40%](https://github.com/n3rmax/FancyCalc)
 - [PadawansTask1 - 100%](https://github.com/n3rmax/PadawansTask1)
 - [PadawansTask2 - 100%](https://github.com/n3rmax/PadawansTask2)
