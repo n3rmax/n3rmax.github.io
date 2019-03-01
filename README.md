@@ -27,7 +27,7 @@
 - *Native Russian*
 - *Working knowledge of English (Pre-Intermediate)*
 - *Working knowledge of German (Elementary)*
-- *Hobbies: computer games, swimming, watching movies and interesting videos*
+- *Hobbies: computer games, swimming, watching movies*
 
 ### Tasks
 
